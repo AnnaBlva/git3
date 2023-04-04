@@ -1,6 +1,6 @@
 # Title
 
-*uno
-*dos
-*tres
+* uno
+* dos
+* tres
 
